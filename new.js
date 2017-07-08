@@ -1,1 +1,1 @@
-var s = "new.js"; 
+var s = "new1.js"; 
